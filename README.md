@@ -1,7 +1,7 @@
 # Bengali Language Model
 Bengali Language model is a language model build with fast ai's [ULMFit](https://arxiv.org/abs/1801.06146)
 
-NB: This repository mostly followed [fastai-ulmfit](https://github.com/fastai/fastai/blob/master/examples/ULMFit.ipynb) and [nlp-for-bengali](https://github.com/goru001/nlp-for-bengali)
+NB: This repository mostly followed [fastai-ulmfit](https://github.com/fastai/fastai/blob/master/examples/ULMFit.ipynb) and [nlp-for-bengali](https://github.com/goru001/nlp-for-bengali) repository
 
 # Dependencies
 * python 3
@@ -19,7 +19,7 @@ NB: This repository mostly followed [fastai-ulmfit](https://github.com/fastai/fa
 * Perplexity of Language Model is: ~24
 
 # Pretrained Model
-* [Language Model]()
-* [Sentencepiece]()
+* [Language Model](https://drive.google.com/open?id=1psppfmadwgWDv7fk3369MG5l0uUEuOvT)
+* [Sentencepiece](https://github.com/sagorbrur/bnlp/blob/master/model/bn_spm.model)
 
 
