@@ -1,4 +1,7 @@
 # Bengali Language Model
+Bengali Language model is a language model build with fast ai's [ULMFit](https://arxiv.org/abs/1801.06146)
+
+NB: This repository mostly followed [fastai-ulmfit](https://github.com/fastai/fastai/blob/master/examples/ULMFit.ipynb) and [nlp-for-bengali](https://github.com/goru001/nlp-for-bengali)
 
 # Dependencies
 * python 3
