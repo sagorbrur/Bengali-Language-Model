@@ -6,6 +6,7 @@ NB: This repository mostly followed [fastai-ulmfit](https://github.com/fastai/fa
 # Dependencies
 * python 3
 * fastai
+* torch
 * sentencepiece
 
 # Dataset
