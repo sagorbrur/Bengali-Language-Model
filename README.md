@@ -6,7 +6,7 @@ NB: This repository mostly followed [fastai-ulmfit](https://github.com/fastai/fa
 # Dependencies
 * python 3
 * fastai
-* torch
+* pytorch 1.1.0(gpu)
 * sentencepiece
 
 # Dataset
@@ -16,11 +16,11 @@ NB: This repository mostly followed [fastai-ulmfit](https://github.com/fastai/fa
 # Evaluation Results
 
 ## Language Model
-* Accuracy: 48% on test validation dataset
-* Perplexity of Language Model is: ~24
+* Accuracy: 48.26% on validation dataset
+* Perplexity of Language Model is: ~22.79
 
 # Pretrained Model
-* [Language Model](https://drive.google.com/open?id=1psppfmadwgWDv7fk3369MG5l0uUEuOvT)
+* [Language Model](https://drive.google.com/open?id=1wuI285FVB5X61GL8BaRY3u_oBCqiuKrC)
 * [Sentencepiece](https://github.com/sagorbrur/bnlp/blob/master/model/bn_spm.model)
 
 
