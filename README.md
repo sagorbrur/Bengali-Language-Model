@@ -12,6 +12,22 @@ NB: This repository mostly followed [fastai-ulmfit](https://github.com/fastai/fa
 # Dataset
 * Bengali Wikipedia Dump Dataset
 * Crawl News Article
+## Data Format
+
+```
+- data
+  - train
+    - article1.txt
+    - article2.txt
+    ..............
+    - articlen.txt
+  - valid
+    - val_article1.txt
+    - val_article2.txt
+    ..................
+    - val_articlen.txt
+    
+```
 
 # Evaluation Results
 
